@@ -1,0 +1,280 @@
+{
+    "_embedded": {
+        "bookstore": [
+            {
+                "title": "The Rolling Rock of Noble 5",
+                "author": "Edwards Neumman",
+                "summary": "hendrerit Donec pulvinar sit sagittis Cras sollicitudin. ac est congue fermentum. Nulla elit. consectetur quam In urna Ut turpis, at malesuada vitae convallis tortor. Aliquam at dolor Aliquam ipsum tincidunt leo ullamcorper mauris rhoncus augue, vitae lobortis congue tellus adipiscing blandit viverra. sem, amet, a Lorem scelerisque ut dolor laoreet lobortis quis, eget, mollis scelerisque vitae ipsum diam. odio. rhoncus nisl. Cras",
+                "publishedDate": "2018-09-13T10:00:00.000+00:00",
+                "isbn": "965-4-7909-3174-2",
+                "price": 88.32,
+                "rating": 3.5123217,
+                "subjects": [
+                    "Non-Fiction",
+                    "Fiction"
+                ],
+                "_links": {
+                    "self": {
+                        "href": "http://localhost:8080/books/61396ce49843dd17ada19b85"
+                    },
+                    "book": {
+                        "href": "http://localhost:8080/books/61396ce49843dd17ada19b85"
+                    }
+                }
+            },
+            {
+                "title": "A Cold Legend of Man 4",
+                "author": "Edwards Jagger",
+                "summary": "risus quis, ac dignissim Morbi metus commodo ligula non orci fermentum lorem. in nec felis id Integer Ut diam. at ut Donec ullamcorper a aliquam a fermentum orci non et ac mattis. consequat ipsum, leo elementum dolor urna. ultrices. elementum dolor ultricies risus, lobortis egestas Etiam velit condimentum tempus eu pharetra Cras sed nisl. est efficitur adipiscing nunc. lacinia, condimentum Quisque consequat nec nisl suscipit odio. mauris Sed tellus ipsum id bibendum tortor. convallis euismod enim ut et sollicitudin maximus, malesuada ante euismod congue congue eros. Aenean eget leo sem. dignissim neque Nulla quam viverra. non. erat. luctus eros, quis ipsum id interdum ipsum scelerisque vel. Sed In lobortis. tincidunt. quis. nisl id porttitor Cras fermentum. magna augue Ut at. sollicitudin eget, Aliquam Praesent In Nulla ut sagittis sed venenatis dictum tincidunt Duis vitae purus scelerisque. Aliquam lectus, congue amet, nisl. justo lobortis consequat. orci rhoncus congue eget Pellentesque imperdiet est. rhoncus gravida Integer scelerisque gravida Integer Etiam non Curabitur eros arcu porttitor. in enim Vestibulum odio Quisque non auctor bibendum pellentesque vel turpis nisl, Suspendisse consectetur. Morbi nulla, sodales at venenatis, gravida placerat faucibus pharetra quis eros, Donec sem, dui tortor dui at tempor rhoncus hendrerit vitae lectus vitae turpis Vestibulum est nulla, augue, Aliquam venenatis elit. quam porta Sed convallis In feugiat hendrerit interdum in et urna Fusce vestibulum a convallis, id ligula ex, at eu blandit. at pulvinar at at vitae sem. Fusce ut consectetur risus Vestibulum augue. ipsum vitae nulla. porttitor consectetur sollicitudin. arcu sit dolor tincidunt semper. risus Lorem sodales. tempus quam vehicula varius lobortis sed sapien Donec hendrerit. ornare blandit mi. tortor turpis, ipsum luctus. commodo, ullamcorper mollis vitae laoreet commodo mi facilisis.",
+                "publishedDate": "2019-12-22T04:00:00.000+00:00",
+                "isbn": "978-1-4582-7739-5",
+                "price": 86.01,
+                "rating": 3.5813186,
+                "subjects": [
+                    "Horror"
+                ],
+                "_links": {
+                    "self": {
+                        "href": "http://localhost:8080/books/61396ce49843dd17ada19b95"
+                    },
+                    "book": {
+                        "href": "http://localhost:8080/books/61396ce49843dd17ada19b95"
+                    }
+                }
+            },
+            {
+                "title": "The Emerald of Water",
+                "author": "Peter Michelin",
+                "summary": "ullamcorper Sed eu gravida mi. risus, ut adipiscing Integer quis convallis, sem, at. nisl. scelerisque at turpis, Donec orci amet, at maximus, odio lobortis. ipsum diam. mattis. Sed a dignissim metus sed Etiam quis id nulla. eu eget Nulla Ut Vestibulum ipsum, feugiat porttitor pharetra eget, venenatis, facilisis. consectetur Morbi sagittis Integer Curabitur suscipit id mauris augue id elementum ut turpis eget ipsum justo Cras ligula malesuada rhoncus odio. congue vitae eros, id dolor blandit magna lorem. tortor Quisque at ipsum In placerat nec vitae ornare et ultrices. Aliquam in pellentesque vitae sollicitudin. Morbi nisl. porttitor non. sollicitudin venenatis risus est id at semper. urna fermentum tincidunt Nulla In quam non at Fusce sollicitudin dolor a Aliquam fermentum. bibendum in tellus tempus vestibulum quis. consectetur Quisque consequat et non pulvinar arcu Integer imperdiet sem. Aliquam consectetur. rhoncus vitae in vel. eros. Fusce dictum aliquam nisl, dolor et porttitor. mi convallis urna. convallis luctus. sem. ante auctor lectus orci egestas ex, Sed ac mollis vitae ut lobortis ipsum vitae efficitur quam congue orci sed lobortis faucibus tortor. Aenean lectus, euismod lobortis leo scelerisque Donec augue, luctus commodo quam rhoncus hendrerit non hendrerit. porta varius Etiam nunc. est. congue euismod nisl lacinia, fermentum dui enim sodales. Ut sodales viverra. ultricies primis Donec eros non Pellentesque congue elementum sit in hendrerit purus tempor ipsum neque tincidunt. Cras sapien arcu sed Suspendisse felis condimentum at risus condimentum nulla, Vestibulum interdum at laoreet tincidunt leo est venenatis blandit. dignissim bibendum commodo consequat Duis nisl interdum vel gravida Lorem ligula commodo, eros, risus augue. turpis ut a pharetra dui Vestibulum quis, nulla, erat. ac elit. nec ullamcorper scelerisque. tortor vehicula Praesent enim velit In gravida tempus consequat.",
+                "publishedDate": "2017-08-26T17:00:00.000+00:00",
+                "isbn": "961-0-3387-4473-4",
+                "price": 69.7,
+                "rating": 3.5242195,
+                "subjects": [
+                    "Biography",
+                    "Science",
+                    "Thriller",
+                    "Action"
+                ],
+                "_links": {
+                    "self": {
+                        "href": "http://localhost:8080/books/61396ce49843dd17ada19bbd"
+                    },
+                    "book": {
+                        "href": "http://localhost:8080/books/61396ce49843dd17ada19bbd"
+                    }
+                }
+            },
+            {
+                "title": "The Molten Life 6",
+                "author": "Mick Neumman",
+                "summary": "venenatis tempor a odio. vitae hendrerit porttitor Cras rhoncus ultricies mi est viverra. sapien leo ipsum adipiscing tincidunt eget, gravida sollicitudin. ullamcorper at Pellentesque at tellus amet, mauris enim ipsum nunc. ex, gravida vitae Fusce Nulla sem, arcu sit congue eros, orci id pulvinar at augue, venenatis, quis. et vitae nec quam sed sodales. Aliquam quis, mollis dolor elit. maximus, rhoncus ac Lorem at magna turpis, fermentum. vitae sagittis Donec turpis ut blandit feugiat porttitor dolor rhoncus venenatis non. Morbi est malesuada sem. lobortis Ut convallis tortor. tincidunt lectus, In Cras Quisque dignissim scelerisque urna scelerisque leo vitae aliquam laoreet consectetur Aliquam tempus lobortis nisl. congue risus, varius diam. Ut",
+                "publishedDate": "2017-05-22T13:00:00.000+00:00",
+                "isbn": "974-0-3899-5720-2",
+                "price": 8.96,
+                "rating": 3.1486068,
+                "subjects": [
+                    "Self-Improvement",
+                    "Action",
+                    "Fiction"
+                ],
+                "_links": {
+                    "self": {
+                        "href": "http://localhost:8080/books/61396ce49843dd17ada19bc7"
+                    },
+                    "book": {
+                        "href": "http://localhost:8080/books/61396ce49843dd17ada19bc7"
+                    }
+                }
+            },
+            {
+                "title": "Molten Joy of Serf 7",
+                "author": "Peter Johns",
+                "summary": "laoreet ullamcorper vestibulum In neque ipsum nisl. nisl pharetra at sodales. quam id suscipit non id euismod mollis a vitae nisl. at. velit tempor bibendum quam venenatis eget augue, Aliquam nec dignissim Pellentesque Fusce sit id Aenean Integer gravida laoreet Ut quis. quis ornare blandit vitae odio. commodo quis. mi Lorem convallis fermentum at ligula luctus sem. urna convallis in non. Morbi eget varius Quisque ullamcorper turpis, consectetur condimentum dignissim venenatis sem. sollicitudin consequat mattis. Morbi hendrerit viverra. Aliquam condimentum posuere arcu primis Etiam Aliquam In In id Nulla eleifend Lorem orci a tincidunt est lectus, turpis id non quis et odio vel in efficitur interdum nec tortor eget, hendrerit odio lobortis luctus fermentum. rhoncus fermentum. id ornare id congue nunc. lobortis ipsum tortor et est elementum leo imperdiet est. sagittis enim urna non ipsum magna justo et convallis Ut sit vitae lacus dolor vitae sed lectus elit. porttitor commodo vitae nec augue, pharetra varius euismod tincidunt nec facilisis. Donec consectetur Nulla Praesent risus in hendrerit. tincidunt. rhoncus vitae tellus lobortis ut nisl, at Ut dolor ac nisl. congue sollicitudin. vitae sem, ultricies Donec neque Quisque condimentum turpis, quis, bibendum vitae et interdum eu Praesent turpis nec Etiam metus nunc. congue risus, quam felis ipsum ultricies rhoncus lectus, eget nulla, consequat Etiam mollis consequat a hendrerit efficitur ut nulla, nisl, congue Curabitur egestas leo commodo, at at Donec Aliquam diam. tincidunt sapien Duis Morbi venenatis, non vel. turpis porttitor. hendrerit ac Suspendisse arcu est Pellentesque bibendum dolor at Vestibulum fermentum ipsum a sollicitudin luctus. scelerisque nulla. dui porttitor venenatis feugiat Donec Sed In risus, et Cras semper. elit. ipsum, et ipsum ullamcorper tellus arcu dui sed maximus, amet, eu sem, purus Integer consequat. eros, orci quis venenatis, tempus eros, congue placerat lobortis. at ut Vestibulum est. sagittis sed at risus Etiam blandit. eros, Quisque condimentum gravida Fusce tortor. consequat orci aliquet. Ut odio. magna bibendum ut aliquam eu elementum lacinia, hendrerit. lobortis. ut diam. Suspendisse auctor Aliquam maximus, at augue augue. id adipiscing sollicitudin. orci suscipit a Fusce vitae at tempus dolor quis, sodales pellentesque non. pulvinar gravida Sed non aliquam enim scelerisque. dictum enim Etiam ultrices dolor Donec enim ligula vitae nec scelerisque felis lobortis rhoncus Nulla ac eros. lobortis tempus congue Vestibulum ut urna. eget, tempus scelerisque lobortis ex, lorem. Integer sapien tortor. id ipsum in nisl Integer placerat auctor adipiscing ultrices. augue nibh vitae Cras porttitor sollicitudin. dignissim lorem. Cras arcu faucibus rhoncus convallis, venenatis blandit. rhoncus Nulla eros euismod egestas Donec eros, amet, at faucibus porta erat. dignissim sem. risus condimentum vehicula gravida porttitor viverra. sed euismod Cras mauris malesuada vitae sollicitudin pulvinar mi ultrices. eleifend. curae; tincidunt. nisl. purus feugiat quam consectetur est vitae In Sed blandit ante tincidunt Sed nisl et ligula risus a consectetur. purus consequat. ipsum enim vestibulum gravida mi. consectetur. ex, non cubilia interdum mauris scelerisque. tempor orci sodales. auctor Integer at malesuada scelerisque velit Sed leo leo fermentum Fusce",
+                "publishedDate": "2018-06-01T03:00:00.000+00:00",
+                "isbn": "977-2-2530-7303-6",
+                "price": 17.84,
+                "rating": 2.955414,
+                "subjects": [
+                    "IT",
+                    "Self-Improvement"
+                ],
+                "_links": {
+                    "self": {
+                        "href": "http://localhost:8080/books/61396ce49843dd17ada19bd7"
+                    },
+                    "book": {
+                        "href": "http://localhost:8080/books/61396ce49843dd17ada19bd7"
+                    }
+                }
+            },
+            {
+                "title": "The Strong Fear of Tank 7",
+                "author": "Meek Michelin",
+                "summary": "tincidunt enim commodo lorem. Integer nisl velit at nunc. In nisl, eget sed sed commodo dictum quam rhoncus Curabitur nec nulla, felis tincidunt. at et risus feugiat ac sagittis Vestibulum commodo, neque ut non. tortor. sollicitudin dui Morbi ipsum et nisl mi interdum dolor Aliquam diam. convallis vitae Fusce vel. Ut quis, sollicitudin. tellus elit. congue Sed vitae rhoncus efficitur dignissim sodales quam metus Suspendisse consectetur risus venenatis tempus consequat Aliquam leo hendrerit est scelerisque. dolor elementum ullamcorper congue ex, id venenatis, urna id a odio sapien ullamcorper luctus ipsum at rhoncus semper. Praesent risus, quam at congue porttitor lobortis vel enim eget, placerat Quisque consequat est quis sodales. tincidunt bibendum nec amet, ligula eros. eu leo Nulla suscipit aliquam dolor vitae ipsum Lorem Etiam fermentum gravida quis. Nulla condimentum blandit Ut non id porttitor eu Fusce Cras lobortis Donec pellentesque hendrerit varius condimentum laoreet scelerisque sem. at turpis scelerisque luctus. hendrerit. at. dui eros, gravida mauris Donec nulla, a ornare non et mattis. mi. sem, euismod consectetur a Duis Aliquam magna interdum Integer lobortis. convallis, purus at tempor ultrices. pulvinar lobortis malesuada orci ut In Morbi augue. consectetur. augue bibendum tortor augue, dignissim Etiam adipiscing lacinia, ac tortor convallis sollicitudin id fermentum. sit maximus, elementum Cras egestas vitae ipsum, arcu ipsum ut consequat. Pellentesque arcu mollis ligula ultricies vitae euismod est. turpis blandit. congue turpis, risus nisl. eros, lectus, Integer Sed orci vitae viverra. venenatis ut odio. auctor id nisl. vestibulum fermentum porta",
+                "publishedDate": "2017-09-12T07:00:00.000+00:00",
+                "isbn": "979-4-8872-7031-7",
+                "price": 73.62,
+                "rating": 3.250512,
+                "subjects": [
+                    "Romance"
+                ],
+                "_links": {
+                    "self": {
+                        "href": "http://localhost:8080/books/61396ce49843dd17ada19bdf"
+                    },
+                    "book": {
+                        "href": "http://localhost:8080/books/61396ce49843dd17ada19bdf"
+                    }
+                }
+            },
+            {
+                "title": "A Jet-Ski of Tank 8",
+                "author": "Catherine Michelin",
+                "summary": "tincidunt Integer dignissim ipsum venenatis, risus, lectus, at ornare pulvinar malesuada urna blandit consectetur. leo Donec convallis nisl. varius Cras Etiam sodales. nisl. Cras vitae venenatis Integer Pellentesque venenatis sagittis Nulla Fusce aliquam turpis velit eu ac vitae feugiat ex, id sollicitudin consequat. nec ligula enim sem. bibendum a fermentum. Quisque Ut tincidunt. eget, purus sem, tincidunt arcu hendrerit. In consequat at scelerisque eros, sollicitudin. viverra. odio. scelerisque In et ut Morbi rhoncus diam. placerat porttitor gravida augue, at dolor quis, vitae elit. et mauris mi non arcu non. tempus est scelerisque. mollis laoreet ullamcorper lobortis lobortis dolor blandit. neque Fusce id Donec bibendum leo ut consequat amet, Aliquam Lorem id suscipit maximus, odio tellus interdum quis ipsum sit turpis, adipiscing auctor eros, nunc. tortor. sapien Ut a Nulla rhoncus orci est. risus rhoncus at vitae ipsum consectetur eget porttitor nisl sed congue magna dignissim Aliquam tempor vitae Sed condimentum quis. hendrerit est euismod congue quam efficitur ultricies gravida",
+                "publishedDate": "2018-02-20T04:00:00.000+00:00",
+                "isbn": "976-1-8970-4223-2",
+                "price": 75.77,
+                "rating": 3.1335282,
+                "subjects": [
+                    "IT",
+                    "Fiction"
+                ],
+                "_links": {
+                    "self": {
+                        "href": "http://localhost:8080/books/61396d039843dd17ada19bfc"
+                    },
+                    "book": {
+                        "href": "http://localhost:8080/books/61396d039843dd17ada19bfc"
+                    }
+                }
+            },
+            {
+                "title": "A Frozen Stone of Water",
+                "author": "Meek Kins",
+                "summary": "quam Aliquam convallis sagittis Cras diam. scelerisque dolor sit ut at rhoncus at rhoncus blandit non. tortor. elit. gravida laoreet mollis Lorem urna In vitae Donec dolor hendrerit consectetur mauris tempus Quisque amet, ullamcorper vitae augue, quis, pulvinar fermentum. viverra. congue quis. odio. Aliquam ac feugiat risus, a eros, adipiscing rhoncus leo eget, lobortis at scelerisque lobortis venenatis Cras malesuada porttitor Nulla congue vitae Ut mi tellus et sem. est sed sem, ipsum magna venenatis lectus, ipsum Morbi vitae turpis, tincidunt nisl. dignissim sollicitudin.",
+                "publishedDate": "2019-12-02T17:00:00.000+00:00",
+                "isbn": "973-0-8951-4950-8",
+                "price": 27.04,
+                "rating": 3.2515593,
+                "subjects": [
+                    "Horror",
+                    "Non-Fiction",
+                    "Mathematics",
+                    "Romance"
+                ],
+                "_links": {
+                    "self": {
+                        "href": "http://localhost:8080/books/61396d039843dd17ada19c02"
+                    },
+                    "book": {
+                        "href": "http://localhost:8080/books/61396d039843dd17ada19c02"
+                    }
+                }
+            },
+            {
+                "title": "The Wizard of Beans",
+                "author": "Torus Neil",
+                "summary": "consectetur Sed malesuada ac sagittis Nulla Lorem at augue. Vestibulum tincidunt Suspendisse tortor turpis, suscipit eros. Curabitur a id lectus, luctus. eros ut risus non at Nulla at. lorem. congue Cras Integer feugiat lacus porttitor ultricies odio quis Integer odio. porttitor bibendum In sit id ipsum Cras facilisis. ipsum consequat nulla. vitae purus sodales. Pellentesque Morbi ipsum dolor commodo id enim sem. Donec lobortis. sagittis tincidunt. orci diam. fermentum mattis. gravida a nec ullamcorper tellus efficitur ligula rhoncus hendrerit Morbi elementum vitae dui mauris fermentum Praesent Fusce nisl. Suspendisse risus sed dignissim nec arcu varius posuere pellentesque felis laoreet convallis placerat quis. orci Quisque Vestibulum elit. nulla, sollicitudin. Quisque euismod convallis, euismod nec et dolor viverra. in Sed ac In auctor metus consectetur. consequat et tincidunt mollis lobortis at tempus et turpis semper. nisl, urna. id non eleifend faucibus est consequat. hendrerit. felis Sed hendrerit dui vitae luctus sollicitudin aliquam nunc. ut ex, nisl. Donec ornare arcu cubilia Aliquam lectus venenatis, urna fermentum. ante turpis consectetur condimentum Donec in elit. gravida scelerisque risus aliquet. adipiscing Etiam id quam sed tortor sed amet, commodo venenatis gravida ligula augue, In dolor Etiam at sollicitudin. quis, eu imperdiet leo mauris faucibus in risus, nisl elementum Lorem Aliquam vitae fermentum ut at lacinia, scelerisque. consectetur quam vitae purus tortor. congue Vestibulum adipiscing vitae dignissim blandit. egestas luctus interdum et congue sapien Sed Integer interdum enim tempus dictum condimentum sit maximus, hendrerit nisl eu primis sollicitudin eget, id rhoncus sem. tempor eros, Ut leo justo sodales nulla, quam non at ipsum nibh eros, in enim ut orci ultrices non at venenatis quam scelerisque Donec Aenean tincidunt magna congue bibendum amet, eget lobortis convallis lobortis est a tempus pharetra erat. pharetra pulvinar porta ullamcorper eleifend. eget rhoncus Fusce blandit vitae congue nec Etiam quis vel non vehicula curae; mi vel. neque commodo, velit est. non. orci auctor augue Aliquam ipsum dolor porttitor. sem, ipsum, ipsum condimentum In ultrices. Ut mi. Duis lobortis. vestibulum",
+                "publishedDate": "2018-06-20T02:00:00.000+00:00",
+                "isbn": "969-4-2766-4969-2",
+                "price": 68.36,
+                "rating": 3.6027544,
+                "subjects": [
+                    "Non-Fiction",
+                    "Fiction",
+                    "IT",
+                    "Mathematics"
+                ],
+                "_links": {
+                    "self": {
+                        "href": "http://localhost:8080/books/61396d039843dd17ada19c07"
+                    },
+                    "book": {
+                        "href": "http://localhost:8080/books/61396d039843dd17ada19c07"
+                    }
+                }
+            },
+            {
+                "title": "A Quiet Legend of Beans",
+                "author": "Walter Jones",
+                "summary": "sagittis scelerisque id sollicitudin. placerat Sed at dolor porttitor. Fusce ut turpis consectetur. eget Sed elit. quis turpis eu blandit enim dui sem, porta vel congue luctus Integer adipiscing Cras In bibendum ut Etiam dolor Integer elit. sollicitudin eget ipsum fermentum consectetur nec fermentum. urna bibendum Lorem amet, Sed neque sagittis at aliquam tempus orci est suscipit rhoncus diam. vitae id a dictum id vitae adipiscing augue, dolor mauris auctor est dignissim gravida gravida porttitor tellus vitae lobortis. Vestibulum vitae sem. sit at enim venenatis Lorem et fermentum laoreet tempor Vestibulum orci magna tortor Aliquam vitae ex, euismod porttitor sodales. condimentum ipsum congue imperdiet faucibus Fusce vehicula lobortis sollicitudin. commodo congue aliquet. enim malesuada tincidunt amet, quam Donec Donec luctus. venenatis Aenean ut lobortis lorem. auctor id risus euismod orci rhoncus felis feugiat a Pellentesque tempus Quisque vestibulum Aliquam Quisque nibh a Morbi a sollicitudin. eu risus In non sodales non sit rhoncus in Ut Aliquam venenatis, vitae Suspendisse est. Suspendisse et ornare odio. turpis, curae; convallis, felis ante justo commodo lobortis Donec interdum scelerisque. facilisis. nisl nulla, Cras consequat tincidunt in velit ac nulla. primis quam mi. pulvinar eros, sem. consectetur eros tincidunt. luctus dolor Integer purus convallis In eleifend. lobortis. tortor. semper. purus mauris lacinia, Aliquam ipsum convallis hendrerit eleifend tempus ipsum, Morbi maximus, ut lectus, elementum at orci arcu Etiam cubilia ipsum Praesent faucibus eros, non gravida ultrices. erat. et tortor quam congue elementum Etiam consectetur in interdum posuere hendrerit. Ut nec commodo, Nulla Sed ligula pharetra fermentum quis, at. eros. vitae mattis. quis egestas ullamcorper condimentum sed blandit. quam consequat. mollis ullamcorper leo id nec id nec ultricies risus non consequat Duis sollicitudin sed at et nulla, nisl, pharetra ligula nisl. non. augue efficitur pellentesque non urna. nisl ultrices metus nisl. nunc. at lectus Donec tincidunt varius in Vestibulum odio dui sapien ac risus, scelerisque congue viverra. vel. mi ipsum In Curabitur quis. lacus hendrerit sed ipsum leo augue. dignissim condimentum arcu eget, hendrerit at Nulla",
+                "publishedDate": "2017-10-02T14:00:00.000+00:00",
+                "isbn": "965-2-7767-5409-3",
+                "price": 54.47,
+                "rating": 3.1939735,
+                "subjects": [
+                    "Action",
+                    "Biology",
+                    "Mathematics",
+                    "Comedy"
+                ],
+                "_links": {
+                    "self": {
+                        "href": "http://localhost:8080/books/61396d039843dd17ada19c0e"
+                    },
+                    "book": {
+                        "href": "http://localhost:8080/books/61396d039843dd17ada19c0e"
+                    }
+                }
+            },
+            {
+                "title": "The Gem of Lady",
+                "author": "Boris Michelin",
+                "summary": "at tincidunt eu Cras dui consequat fermentum non vitae tortor. rhoncus ullamcorper lacus tincidunt rhoncus Pellentesque est Ut diam. ligula nisl faucibus in mi. sit hendrerit magna odio. mauris quam In ac feugiat Cras sodales quis, gravida sit risus, scelerisque. interdum lorem. ipsum eu lobortis. malesuada elit. urna lobortis. dolor risus Ut consequat. vestibulum eros. urna. nisl. nisl, dolor nulla, at dolor sem, elementum nisl. a non ultricies sollicitudin. Aliquam vitae id metus commodo est. et semper. sapien quam leo eget congue quis Donec at risus suscipit ut Lorem in at arcu dignissim venenatis tellus Morbi tincidunt consectetur mi Aliquam Fusce eget id ipsum sed ex, vel rhoncus Integer sem. felis tellus orci augue Integer In auctor Integer sagittis luctus at vitae venenatis ligula blandit at nulla. quis. at leo ipsum risus, Suspendisse mi convallis eget, leo lobortis hendrerit commodo, felis Nulla nulla, turpis eget, porttitor ultrices nec at Sed dui interdum cubilia blandit sollicitudin lobortis vitae quam non dignissim scelerisque a vehicula enim pharetra Quisque augue, consectetur. orci hendrerit eros, ipsum orci quis ac pulvinar ut sodales. ultrices. enim Fusce feugiat congue dolor lectus, consectetur dolor sem, congue Donec at Vestibulum scelerisque turpis, tempus viverra. sem. fermentum turpis Nulla nisl adipiscing scelerisque imperdiet ut adipiscing Suspendisse non. dignissim ullamcorper nec facilisis. tempus purus blandit. primis justo eleifend. eros, Aenean tincidunt. congue Sed commodo fermentum. ipsum vitae mauris at curae; pulvinar eleifend est convallis vitae dictum sollicitudin. congue Etiam diam. In risus quam euismod Cras amet, et Donec augue. eros, Duis lobortis vel. aliquam mattis. Etiam viverra. gravida placerat tempus fermentum rhoncus Aliquam ipsum nibh id fermentum. porttitor. lacinia, lectus, ullamcorper nec tempus non Praesent tempor posuere sollicitudin. laoreet tortor Quisque urna ipsum, In lobortis sollicitudin Morbi nec gravida et pharetra Sed arcu ipsum Sed scelerisque mollis hendrerit efficitur vitae purus amet, turpis, aliquet. Donec vitae malesuada laoreet bibendum maximus, Aliquam id vitae convallis non egestas Vestibulum magna Quisque venenatis, varius sed Lorem mollis tortor. luctus a in id est ante ornare Aliquam consequat rhoncus rhoncus velit a quis, est condimentum id eros nec auctor sagittis faucibus Etiam augue, quis. porttitor Curabitur tortor sed Morbi elementum euismod Ut Vestibulum at. Donec pellentesque odio venenatis et vitae ut ut gravida in vitae convallis, et Nulla porta non. neque tincidunt gravida bibendum ac lectus consectetur orci condimentum nunc. venenatis luctus. hendrerit. enim Ut odio. congue Cras erat. sem. elit. condimentum sed porttitor nisl. lobortis",
+                "publishedDate": "2017-12-04T10:00:00.000+00:00",
+                "isbn": "969-0-6462-9886-6",
+                "price": 80.13,
+                "rating": 3.6435184,
+                "subjects": [
+                    "Physics",
+                    "Mathematics",
+                    "Non-Fiction",
+                    "Biology"
+                ],
+                "_links": {
+                    "self": {
+                        "href": "http://localhost:8080/books/61396d039843dd17ada19c18"
+                    },
+                    "book": {
+                        "href": "http://localhost:8080/books/61396d039843dd17ada19c18"
+                    }
+                }
+            },
+            {
+                "title": "Savage Legend of Fish",
+                "author": "Michael Clement",
+                "summary": "placerat consectetur. venenatis eget, magna efficitur ipsum ex, quam sollicitudin. euismod amet, et venenatis Lorem porttitor blandit. Integer Ut viverra. Ut lectus, est nisl. Fusce a Etiam lobortis sit orci nunc. a venenatis, Integer non at ut Morbi ullamcorper Cras In velit mauris ipsum malesuada porttitor scelerisque maximus, Quisque quis. lobortis scelerisque aliquam sodales. ligula dolor id In blandit adipiscing hendrerit varius Donec quis eros, odio. risus, at leo mollis tortor. diam. rhoncus Donec at nisl congue ornare id eget dignissim pulvinar Pellentesque at arcu sem. suscipit quis, sagittis leo purus convallis risus eu bibendum augue, vitae gravida vitae Cras non. Nulla rhoncus scelerisque. consequat. Sed tincidunt feugiat neque ipsum nec ultricies bibendum eros, ut tellus laoreet Aliquam vitae condimentum arcu urna dolor consequat vitae et sem, turpis, consequat sed odio consectetur sollicitudin tincidunt. rhoncus gravida enim ac auctor tincidunt vitae nisl. Nulla turpis tempor fermentum. est. hendrerit. tempus id est mi interdum Aliquam Fusce congue dignissim elit. sapien",
+                "publishedDate": "2020-05-07T22:00:00.000+00:00",
+                "isbn": "962-0-6484-4342-4",
+                "price": 34.58,
+                "rating": 3.8325472,
+                "subjects": [
+                    "Biology",
+                    "Physics",
+                    "Mathematics",
+                    "Non-Fiction"
+                ],
+                "_links": {
+                    "self": {
+                        "href": "http://localhost:8080/books/61396d039843dd17ada19c1a"
+                    },
+                    "book": {
+                        "href": "http://localhost:8080/books/61396d039843dd17ada19c1a"
+                    }
+                }
+            }
+        ]
+    },
+    "_links": {
+        "self": {
+            "href": "http://localhost:8080/books/search/findByPublishedDateRange?startDate=2017-04-25T14:05:15.953Z&endDate=2020-05-18T18:13:15.953Z&page=0&size=20"
+        }
+    },
+    "page": {
+        "size": 20,
+        "totalElements": 12,
+        "totalPages": 1,
+        "number": 0
+    }
+}
